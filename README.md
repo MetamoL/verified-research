@@ -1,6 +1,6 @@
 # verified-research
 
-A Claude Code skill (also usable from Codex and other agents that read `SKILL.md`) for web research you can audit. Every claim in the answer carries a footnote with a sentence copied verbatim from the source, and a script fetches each page and checks that the sentence is really there. Answers that rest on a judgment or on conflicting sources get a second, cold read by a fresh subagent.
+An agent skill for Claude Code, Codex, and other agents that read `SKILL.md`, for web research you can audit. Every claim in the answer carries a footnote with a sentence copied verbatim from the source, and a script fetches each page and checks that the sentence is really there. Answers that rest on a judgment or on conflicting sources get a second, cold read by a fresh subagent.
 
 It leaves *how* to search to the model. It only governs what reaches you: checkable sources, primary sources over repetition, and an explicit **Unverified** section for whatever could not be checked.
 
@@ -14,14 +14,22 @@ In a 30-question test ([eval](eval/)), models asked for verbatim quotes almost n
 
 ## Install
 
-In Claude Code:
+**Claude Code**
 
 ```
 /plugin marketplace add MetamoL/skills
 /plugin install verified-research@metamol
 ```
 
-Or clone this repository as a skill folder:
+**Codex and other agents**
+
+```
+npx skills add MetamoL/verified-research
+```
+
+It asks which agents to install for. Add `-g` to make it available in every project.
+
+**By hand:** clone this repository into your agent's skills folder (`~/.claude/skills/` for Claude Code, `~/.agents/skills/` for Codex).
 
 ```
 git clone https://github.com/MetamoL/verified-research ~/.claude/skills/verified-research
@@ -36,7 +44,7 @@ Sites that refuse automated readers are respected, not bypassed: the agent is to
 
 ## 日本語
 
-Web 調査の答えのすべての主張に、原文どおりの引用つきの出典を付けさせる Claude Code 用のスキルです。引用がページに本当に載っているかをスクリプトで照合し、判断が絡むときは別のエージェントに読み直させます。検索の仕方はモデルに任せます。30問での評価結果は [eval](eval/)。導入は上の Install のとおりです。ほかのスキルは [MetamoL/skills](https://github.com/MetamoL/skills) にまとめています。
+Web 調査の答えのすべての主張に、原文どおりの引用つきの出典を付けさせる AI エージェント用のスキルです。Claude Code・Codex など、`SKILL.md` を読むエージェントで使えます。引用がページに本当に載っているかをスクリプトで照合し、判断が絡むときは別のエージェントに読み直させます。検索の仕方はモデルに任せます。30問での評価結果は [eval](eval/)。導入は上の Install のとおりです。ほかのスキルは [MetamoL/skills](https://github.com/MetamoL/skills) にまとめています。
 
 ## License
 
