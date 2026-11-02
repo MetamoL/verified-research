@@ -10,7 +10,7 @@ It leaves *how* to search to the model. It only governs what reaches you: checka
 
 ## Why
 
-In a 30-question test ([eval](eval/)), models asked for verbatim quotes almost never invented one. The real gaps were elsewhere: 6–16% of citations pointed to pages nothing could open, and 7–16% of quotes were real but did not support the claim attached to them (judged blind by a separate model). With the skill both fell to about 2% or less. The trade is speed: about 3× the time.
+In a 100-question test with Claude Code and Codex ([eval](eval/)), models asked for verbatim quotes rarely invented one. The bigger gap: without the skill, 11–16% of citations pointed to pages nothing could open, so no one could check them; with it, almost none. For Codex, the skill also cut quotes that do not support their claim by about a third (judged blind by two models); Claude Code was already good at that. Judgment questions get a cold read that rewrote several conclusions. The trade is speed: about 2–2.5× the time.
 
 ## Install
 
@@ -44,7 +44,7 @@ Sites that refuse automated readers are respected, not bypassed: the agent is to
 
 ## 日本語
 
-Web 調査の答えのすべての主張に、原文どおりの引用つきの出典を付けさせる AI エージェント用のスキルです。Claude Code・Codex など、`SKILL.md` を読むエージェントで使えます。引用がページに本当に載っているかをスクリプトで照合し、判断が絡むときは別のエージェントに読み直させます。検索の仕方はモデルに任せます。30問での評価結果は [eval](eval/)。導入は上の Install のとおりです。ほかのスキルは [MetamoL/skills](https://github.com/MetamoL/skills) にまとめています。
+Web 調査の答えのすべての主張に、原文どおりの引用つきの出典を付けさせる AI エージェント用のスキルです。Claude Code・Codex など、`SKILL.md` を読むエージェントで使えます。引用がページに本当に載っているかをスクリプトで照合し、判断が絡むときは別のエージェントに読み直させます。検索の仕方はモデルに任せます。Claude Code と Codex で行った100問の評価結果は [eval](eval/)。導入は上の Install のとおりです。ほかのスキルは [MetamoL/skills](https://github.com/MetamoL/skills) にまとめています。
 
 ## License
 

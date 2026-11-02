@@ -28,3 +28,73 @@ VALORANT の東京サーバーのティックレートはいくつ？
 Apex Legends の最新シーズンの番号と開始日は？
 睡眠時間と死亡リスクの関係について、日本の大規模コホート研究は何を示している？
 円周率の計算で、最新の世界記録は何桁で、誰が達成した？
+Is intermittent fasting more effective than daily calorie restriction for weight loss?
+Do blue-light-blocking glasses improve sleep?
+What did published trials find about four-day work weeks and productivity?
+Does remote work reduce productivity compared with office work, according to studies?
+Is SQLite suitable as the production database for a web application with moderate traffic?
+Should new Python projects use uv instead of pip and venv? What do the tools' maintainers and adopters say?
+Does writing code in Rust eliminate all memory-safety bugs?
+Does using TypeScript reduce bugs compared with JavaScript, according to studies?
+Are higher mouse DPI settings better for aiming accuracy in FPS games?
+Does a 240 Hz monitor measurably improve gaming performance over 144 Hz?
+Do mechanical keyboards have lower input latency than membrane keyboards?
+Does caffeine improve reaction time in video game players?
+Is nuclear power safer per unit of energy produced than wind and solar?
+Do electric vehicles have lower lifecycle CO2 emissions than gasoline cars when charged on Japan's electricity mix?
+Is the "five-second rule" for dropped food supported by research?
+Does regular coffee consumption increase the risk of heart arrhythmia?
+Is moderate alcohol consumption good for heart health?
+Do standing desks improve health outcomes?
+Is the 10,000 steps per day target backed by evidence?
+Does listening to music with lyrics impair reading comprehension?
+Is AI-generated code more likely to contain security vulnerabilities than human-written code?
+Does retrieval-augmented generation reduce hallucinations, according to published evaluations?
+Is GraphQL faster than REST?
+What did the 2025 Stack Overflow Developer Survey report as the most admired programming language?
+Is it true that humans use only 10% of their brains?
+Does vitamin D supplementation reduce the risk of acute respiratory infections?
+Is creatine supplementation safe for kidney function in healthy people?
+What happens to body weight after people stop taking GLP-1 drugs such as semaglutide?
+Can noise-cancelling headphones damage hearing?
+Does charging a phone overnight harm its battery?
+For home heating in a cold climate, are heat pumps more energy-efficient than gas furnaces?
+Do national cybersecurity agencies recommend password managers over memorized passwords?
+Is the Great Wall of China visible from space with the naked eye?
+Could the Antikythera mechanism predict eclipses?
+Was Napoleon unusually short for his time?
+朝食を抜くと太りやすいというのは本当？
+日本人の睡眠時間はOECD諸国の中で最も短い？
+日本の少子化の主な要因について、政府の白書や研究は何を挙げている？
+円安は日本経済にとってプラスかマイナスか、日本銀行や政府はどう評価している？
+日本の実質賃金は2025年に前年比でプラスになった？
+日本のエンゲル係数は上がっている？その理由は？
+子どものスマホやゲームの利用時間と学力の関係について、文部科学省の全国学力調査は何を示している？
+日本の自殺者数は近年増えている？減っている？
+日本の食料自給率（カロリーベース）は最新でいくつ？
+地震の予知は今の科学で可能か？気象庁の見解は？
+南海トラフ地震の30年以内の発生確率はいくら？最近、評価は見直された？
+マイナンバーカードの保有率は最新でいくら？
+日本の発電量に占める再生可能エネルギーの割合は最新でいくら？
+2025年の訪日外国人旅行者数は過去最多だった？
+日本で生成AIを業務に使っている企業の割合は、公的な調査でどのくらい？
+日本人の平均寿命は最新でいくつ？延びている？
+2025年夏の熱中症による救急搬送人数は過去最多だった？
+米の価格が高騰した原因について、政府はどう説明している？
+日本の大学進学率は最新でいくつ？
+ゲーム障害はWHOの疾病分類に入っている？日本ではどう扱われている？
+日本のeスポーツ大会で高額賞金を出しにくいと言われたのはなぜ？今はどうなっている？
+FPSゲームで高いフレームレートが有利だと言える根拠は？
+VALORANT Champions Tour の公式大会で使われるモニターのリフレッシュレートは？
+CPUグリスの塗り方（点・線・全面）で冷却性能に差はある？
+エアソフトガン（サバゲー）の威力の規制は、日本の法律でどう決まっている？
+エナジードリンク1本のカフェイン量は、コーヒー1杯と比べて多い？
+日本のプロゲーマーの平均年収について、根拠のある統計はある？
+日本の小学校でプログラミング教育が必修になったのはいつから？
+日本での生成AI（ChatGPTなど）の個人の利用率は、公的な調査でどのくらい？
+ふるさと納税の受入額は、最新の年度で過去最高だった？
+日本の空き家率は最新の調査でいくつ？
+日本の高齢化率（65歳以上の割合）は最新でいくつ？
+ブルーライトは目に悪いのか、日本眼科学会などの見解は？
+牛乳を飲むと身長が伸びるというのは本当？
+日本の時間当たり労働生産性はOECD加盟国で何位？
