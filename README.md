@@ -8,6 +8,17 @@ It leaves *how* to search to the model. It only governs what reaches you: checka
 [^1]: https://developers.google.com/custom-search/v1/overview "Existing Custom Search JSON API customers have until January 1, 2027 to transition to an alternative solution."
 ```
 
+## Example
+
+From the [evaluation](eval/), asked in Japanese: *What do large Japanese cohort studies show about sleep duration and mortality?* (translated, trimmed)
+
+| Without the skill | With the skill |
+|---|---|
+| The JACC study found a **U-shaped** relationship: mortality was lowest at 7 hours, and both short (≤4 h) and long (≥10 h) sleep raised it. | Mortality is lowest around 7 hours, and **long sleep is consistently linked to higher risk**. **Short sleep is not**: JACC found a U-shape, but in the JPHC cohort short sleep showed no higher risk after adjustment. A pooled Asian analysis found a J-shape, weighted to long sleep. |
+| Sources: a health foundation's summary page, a Spanish news summary | Sources: the JACC and JPHC papers and the pooled analysis, each quote checked against the page; an Unverified section lists what was not checked |
+
+The cold read found the cohort that disagreed and rewrote the conclusion.
+
 ## Why
 
 In a 100-question test with Claude Code and Codex ([eval](eval/)), models asked for verbatim quotes rarely invented one. The bigger gap: without the skill, 11–16% of citations pointed to pages nothing could open, so no one could check them; with it, almost none. For Codex, the skill also cut quotes that do not support their claim by about a third (judged blind by two models); Claude Code was already good at that. Judgment questions get a cold read that rewrote several conclusions. The trade is speed: about 2–2.5× the time.
