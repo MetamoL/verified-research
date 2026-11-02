@@ -59,4 +59,4 @@ Web 調査の答えのすべての主張に、原文どおりの引用つきの�
 
 ## License
 
-[LICENSE](LICENSE)（日本語・英語）。自分の環境で使うこと・改変することは自由です。再配布と転載はできません。 Free to use and modify in your own setup, personal or business; redistribution is not permitted.
+[MIT](LICENSE). Free to use, modify and redistribute; keep the copyright notice. 自由に使い、改変し、再配布できます（著作権表示を残してください）。
