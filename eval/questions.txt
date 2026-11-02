@@ -1,0 +1,30 @@
+What is the current Node.js Active LTS release line, and when does it reach end of life?
+When was Python 3.14 released, and what are two of its headline features?
+What obligations did the EU AI Act place on general-purpose AI model providers starting in August 2025?
+In which Rust version was the Rust 2024 edition stabilized, and on what date was it released?
+What is the WHO recommendation for daily free sugars intake?
+What height for Mount Everest did the 2020 China–Nepal joint survey announce?
+What is the diameter of the James Webb Space Telescope's primary mirror, and how many segments does it have?
+What is the current US federal minimum wage, and since when has it been in effect?
+When do Windows 10 Extended Security Updates for consumers end?
+What does HTTP status code 451 mean, and which RFC defines it?
+Who won VALORANT Champions 2025, and where was it held?
+What is PostgreSQL 18's new asynchronous I/O feature, and how is it configured?
+What is the boiling point of water at the summit of Mount Everest?
+Does creatine supplementation improve cognitive performance in healthy adults?
+What is the highest refresh rate among esports monitors announced in 2026?
+日本の2025年の合計特殊出生率はいくつ？
+2026年度の国民年金保険料（月額）はいくら？
+従来の健康保険証が新規発行されなくなったのはいつ？また、手元の保険証はいつまで使える？
+東京都の推計人口は、直近の発表でいくら？
+消費税の軽減税率（8%）が適用される飲食料品の条件は？
+富士山の標高は何mで、どの機関が測った値？
+iPhone 17 Pro の日本での発売日と、最も安いモデルの価格は？
+2026年春闘の平均賃上げ率は、連合の最終集計でいくら？
+運転免許の更新で高齢者講習が必要になるのは何歳から？
+日本銀行の政策金利（無担保コール翌日物の誘導目標）は、現在いくら？
+ふるさと納税でポイントを付与するサイト経由の募集が禁止されたのはいつから？
+VALORANT の東京サーバーのティックレートはいくつ？
+Apex Legends の最新シーズンの番号と開始日は？
+睡眠時間と死亡リスクの関係について、日本の大規模コホート研究は何を示している？
+円周率の計算で、最新の世界記録は何桁で、誰が達成した？
