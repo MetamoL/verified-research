@@ -10,7 +10,7 @@ It leaves *how* to search to the model. It only governs what reaches you: checka
 
 ## Why
 
-In a 30-question test ([eval](eval/)), models asked for verbatim quotes almost never invented one. The real gaps were elsewhere: 6–16% of citations pointed to pages nothing could open, and quotes that were real but did not carry the claim attached to them. The script closes the first; the cold read caught the second and rewrote 6 of the 8 answers it reviewed. The trade is speed: about 3× the time.
+In a 30-question test ([eval](eval/)), models asked for verbatim quotes almost never invented one. The real gaps were elsewhere: 6–16% of citations pointed to pages nothing could open, and 7–16% of quotes were real but did not support the claim attached to them (judged blind by a separate model). With the skill both fell to about 2% or less. The trade is speed: about 3× the time.
 
 ## Install
 
