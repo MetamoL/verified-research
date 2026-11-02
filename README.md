@@ -14,9 +14,30 @@ In a 30-question test ([eval](eval/)), models asked for verbatim quotes almost n
 
 ## Install
 
-Copy this folder to `~/.claude/skills/verified-research/`, or install the plugin from the repository root. Needs Python 3. Optional, installed when the script asks:
+In Claude Code:
+
+```
+/plugin marketplace add MetamoL/skills
+/plugin install verified-research@metamol
+```
+
+Or clone this repository as a skill folder:
+
+```
+git clone https://github.com/MetamoL/verified-research ~/.claude/skills/verified-research
+```
+
+Needs Python 3. Optional, installed when the script asks:
 
 - `pip install pdfminer.six` for PDF sources
 - `pip install playwright && playwright install chromium` for pages rendered by JavaScript
 
 Sites that refuse automated readers are respected, not bypassed: the agent is told to cite a machine-readable copy (official API, DOI page, archive) or list the claim as unverified.
+
+## 日本語
+
+Web 調査の答えのすべての主張に、原文どおりの引用つきの出典を付けさせる Claude Code 用のスキルです。引用がページに本当に載っているかをスクリプトで照合し、判断が絡むときは別のエージェントに読み直させます。検索の仕方はモデルに任せます。30問での評価結果は [eval](eval/)。導入は上の Install のとおりです。ほかのスキルは [MetamoL/skills](https://github.com/MetamoL/skills) にまとめています。
+
+## License
+
+[LICENSE](LICENSE)（日本語・英語）。自分の環境で使うこと・改変することは自由です。再配布と転載はできません。 Personal use and modification are free; redistribution is not permitted.
