@@ -40,4 +40,4 @@ Web 調査の答えのすべての主張に、原文どおりの引用つきの�
 
 ## License
 
-[LICENSE](LICENSE)（日本語・英語）。自分の環境で使うこと・改変することは自由です。再配布と転載はできません。 Personal use and modification are free; redistribution is not permitted.
+[LICENSE](LICENSE)（日本語・英語）。自分の環境で使うこと・改変することは自由です。再配布と転載はできません。 Free to use and modify in your own setup, personal or business; redistribution is not permitted.
